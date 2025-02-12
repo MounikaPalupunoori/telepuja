@@ -1,0 +1,33 @@
+/* Place classes in alphabetical order */
+.bg-green{
+    background-color: #00796b;
+}
+
+.bg-grey {
+    background-color: #adad85;
+}
+.navbar-bg {
+    background: #ff9e0ee7 !important;
+}
+.navtitle-title {
+    color: white;
+}
+.tooltip-info {
+    margin:5px;
+    padding:0px;
+}
+.tooltip-info ul {
+    list-style: list!important;
+    margin:2px;
+    padding-left: 18px;
+}
+.tooltip-info ul li {
+    line-height:2;
+    
+}
+.cursor-pointer {
+    cursor: pointer;
+}
+.ios {
+    --f7-navbar-height: 56px;
+}

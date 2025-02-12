@@ -1,0 +1,26 @@
+{
+  "cwd": "D:\\react-folders\\react-f7-draft",
+  "type": [
+    "web"
+  ],
+  "name": "TelePuja",
+  "framework": "react",
+  "template": "single-view",
+  "bundler": "webpack",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#ff6b22",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "webpack": {
+    "developmentSourceMap": true,
+    "productionSourceMap": true,
+    "hashAssets": false,
+    "preserveAssetsPaths": false,
+    "inlineAssets": true
+  }
+}
